@@ -1,5 +1,11 @@
 # Red segura versionada
+## Flujo de trabajo
 
+1. Crear rama
+2. Hacer cambios
+3. Commit
+4. Push
+5. Pull Request
 ## Descripción
 Este proyecto documenta una red escolar simulada y sus controles básicos de seguridad.
 
